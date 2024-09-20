@@ -16,6 +16,8 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 ```
+composer require laravel/ui
+ php artisan ui bootstrap --auth
 # Set up the dir
 
 ```
@@ -54,7 +56,7 @@ php artisan make:migration create_messages_table
 # Create the models
 
 ```
-php artisan make:model UserController
+php artisan make:model User
 php artisan make:model Message
 php artisan make:model Testimonial
 php artisan make:model Topic
