@@ -16,8 +16,9 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 ```
-composer require laravel/ui
- php artisan ui bootstrap --auth
+composer require laravel/ui <br>
+ php artisan ui bootstrap --auth <br>
+ composer require laravel/sanctum <br>
 # Set up the dir
 
 ```
