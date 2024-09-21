@@ -1,3 +1,24 @@
+**Project Description:**
+
+This project involves developing a website for articles covering various topics, such as marketing, computer science, and more.
+
+**Requirements:**
+
+You are required to implement all pages in the `admin` folder, with the following exceptions:
+
+- In `topics.html`, the column displaying the number of views is not required.
+- For `login.html` and `register.html`, you may choose to use the provided files or use the implementation provided by `laravel/ui`.
+- In `messages.html`, if you are unable to separate read and unread messages into distinct sections, you may combine them into a single table.
+
+You are also required to implement all pages in the `public` folder, with the following exceptions:
+
+- In `topic-listing.html`, pagination for popular topics is optional. Additionally, if you do not implement the number of views in `topics.html`, you only need to display the latest three topics in the popular topics section.
+- In `index.html`, in browse topics you must display only three articles at most in each category
+- In `index.html`, in what our clients says, display only 3 testimonials
+- In `testimonials.html`, display all published testimonials
+- In `topic-details.html`, 'web Design' will be replaced by category of topic, 'introduction to web design 101' is replaced by topic name, the save icon is used to increase the number of views "save icon is optional"	
+
+
 # Articles-platform
 
 
