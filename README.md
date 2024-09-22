@@ -40,6 +40,7 @@ DB_PASSWORD=
 composer require laravel/ui <br>
  php artisan ui bootstrap --auth <br>
  composer require laravel/sanctum <br>
+ mkdir -p app/Mail
 # Set up the dir
 
 ```
