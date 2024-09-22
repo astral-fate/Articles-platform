@@ -101,7 +101,7 @@ php artisan make:controller CategoryController
 # Create the classes 
 
 ```
-php artisan make:class Car
+php artisan make:class ContactFormMailable
 ```
 # Update db
 php artisan migrate
