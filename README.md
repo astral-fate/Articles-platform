@@ -57,13 +57,25 @@ project24/
 │           ├── contact.html
 │           ├── index.html
 │           └── ...
-└── 
+└──
+
+
+project24/
+├── views/
+│   ├── email/
+│   │   └── contact-form.blade.php
+
+
+├── Https/controllers/
+│   └── Mail/
+│       └── ContactFormMailable.php
+
 ```
 
 # Run the serves
 
 
-
+php artisan serve
 
 # Create the databses
 
@@ -101,7 +113,13 @@ php artisan make:controller CategoryController
 
 # Create the classes 
 
+
 ```
+
+
+
+![image](https://github.com/user-attachments/assets/e7d40669-cfb7-4f32-83ad-6b76d65d3358)
+
 php artisan make:class ContactFormMailable
 ```
 # Update db
