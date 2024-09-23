@@ -125,3 +125,9 @@ php artisan make:class ContactFormMailable
 # Update db
 php artisan migrate
 
+
+# Features
+
+![image](https://github.com/user-attachments/assets/953563e8-ddbc-4354-84f2-ecc0cad4613d)
+
+
