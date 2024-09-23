@@ -126,6 +126,10 @@ php artisan make:class ContactFormMailable
 php artisan migrate
 
 
+![image](https://github.com/user-attachments/assets/bd83692e-c422-4c71-9453-971ffd1b83d4)
+
+
+
 # Features
 
 ![image](https://github.com/user-attachments/assets/953563e8-ddbc-4354-84f2-ecc0cad4613d)
